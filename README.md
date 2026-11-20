@@ -25,6 +25,3 @@ Experimental and under development.
 
 This project is a personal experiment in AI architecture, memory, and simulated consciousness. It does not claim to create real consciousness.
 
-Author
-
-VICKY
